@@ -1,0 +1,1 @@
+A Python-based banking system simulating debit and credit account management. Features include deposit, withdrawal, credit purchases, balance checking, and credit payments. Designed for educational purposes to demonstrate OOP principles with account types, transactions, and dynamic account creation.
